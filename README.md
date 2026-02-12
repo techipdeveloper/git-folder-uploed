@@ -1,4 +1,4 @@
-### Git Folder Uploader v2.0.0
+### Git Folder Uploader v2.1.0
 
 Upload entire folders to GitHub or GitLab with one click -- no Git knowledge required.
 
